@@ -1,0 +1,7 @@
+com\prem\websocket\chat\MessageType.class
+com\prem\websocket\ChatApplication.class
+com\prem\websocket\chat\ChatMessage.class
+com\prem\websocket\chat\ChatMessage$ChatMessageBuilder.class
+com\prem\websocket\config\WebSocketConfig.class
+com\prem\websocket\chat\ChatController.class
+com\prem\websocket\config\WebSocketEventListener.class
