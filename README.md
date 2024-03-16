@@ -17,7 +17,7 @@ This repository contains the implementation of a chat website using SpringBoot a
 - **SpringBoot**: A popular Java framework for building robust and scalable web applications.
 - **WebSocket**: A communication protocol that provides full-duplex communication channels over a single TCP connection.
 - **HTML and CSS**: Front-end markup and styling languages for designing the user interface.
-- **Bootstrap**: A front-end framework for developing responsive and mobile-first websites.
+- **JS**: For scripting
 
 ## Installation
 
